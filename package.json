@@ -1,0 +1,12 @@
+{
+  "name": "ig-backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "prepare": "husky install"
+  },
+  "author": "Lovepreet singh",
+  "license": "ISC"
+}
